@@ -9,7 +9,7 @@ primary_region = 'nrt'
 [build]
 
 [env]
-  PORT = '3000'
+  PORT = '8080'
 
 [http_service]
   internal_port = 8080
